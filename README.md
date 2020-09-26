@@ -1,6 +1,6 @@
 # Computer Architecture (컴퓨터 구조)
 ## 2020 가을학기, 한림대학교 소프트웨어융합대학 
-## Modified by Junhyeok CHAE (in 'upstream' branch)
+## This repository is modified by Junhyeok CHAE (in 'upstream' branch)
 *  *  *
 
 ## [알림] Github 수업 페이지 오픈
