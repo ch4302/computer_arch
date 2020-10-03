@@ -24,12 +24,7 @@ loop:
 	sw $t1, 0($t0)	# array[i] = array[i] * 4
 	addi $s1, $s1, 1	# i = i + 1
 	j loop		# repeat
-
-
-
 done:
-	
-
 	.data
 array:	.word 1:100	# 100개의 정수형 element를 갖는 배열
 			# 모두 초기값이 1로 초기화됨
